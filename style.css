@@ -5,6 +5,10 @@ body {
   font-family: "Roboto";
   font-weight: 500; }
 
+p {
+  line-height: 1.4;
+  font-size: 1.1em; }
+
 .header {
   position: fixed;
   top: 0;
